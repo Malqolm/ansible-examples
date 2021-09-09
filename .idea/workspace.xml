@@ -19,14 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
+    <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="Added awx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LES_PLAYBOOKS.md" beforeDir="false" afterPath="$PROJECT_DIR$/LES_PLAYBOOKS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ansible_facts_using_when.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ansible_facts_using_when.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory_children" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_children" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loops.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../crunchydevops/ansible/ansible-postgresql" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../docker-aston-poec" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -126,6 +123,9 @@
       <workItem from="1615367581406" duration="1301000" />
       <workItem from="1615475808032" duration="1426000" />
       <workItem from="1615534072785" duration="12000" />
+      <workItem from="1630920279192" duration="1798000" />
+      <workItem from="1630923641729" duration="25080000" />
+      <workItem from="1631176502966" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <created>1591282108822</created>
